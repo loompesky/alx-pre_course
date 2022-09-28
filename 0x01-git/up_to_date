@@ -1,0 +1,25 @@
+---To create a readme file with content 'My First readme'
+
+# echo 'My first readme' > README.md
+
+
+
+--Important is to commit and push to github
+
+git add . (# use "git add" to track)
+
+git commit -m 'Second try on Repo-session'
+
+git push
+
+
+
+---branch----
+
+git branch
+
+git branch -c update_scripts
+
+git checkout update_scripts
+
+git push origin HEAD
